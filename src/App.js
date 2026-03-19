@@ -11,7 +11,7 @@ function App() {
     <Router>
       <div className="App">
       <header className="App-header">
-        <h1>Welcome to Sokogarden</h1>
+        <h1>Welcome to Sokogarden </h1>
       </header>
       {/* Below are our different routes together with the rendered components */}
       <Routes>
