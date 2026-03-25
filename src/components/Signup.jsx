@@ -31,7 +31,7 @@ const Signup = () => {
         formData.append("phone", phone);
 
         // By use of axios we can access the post method
-        const response = await axios.post("https://kbenkamotho.alwaysdata.net/api/signup", formData);
+        const response = await axios.post("https://mutukuryan.alwaysdata.net/api/signup", formData);
 
         // Set back the loading book to default
         setLoading("");
